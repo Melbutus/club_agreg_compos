@@ -1,0 +1,254 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\clase3_club_altos_verdes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05D2B94B-8930-4058-ADA4-181CEFB12C74}|WindowsFormsApp1.csproj|c:\\users\\usuario\\clase3_club_altos_verdes\\formjugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D2B94B-8930-4058-ADA4-181CEFB12C74}|WindowsFormsApp1.csproj|solutionrelative:formjugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D2B94B-8930-4058-ADA4-181CEFB12C74}|WindowsFormsApp1.csproj|c:\\users\\usuario\\clase3_club_altos_verdes\\torneo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D2B94B-8930-4058-ADA4-181CEFB12C74}|WindowsFormsApp1.csproj|solutionrelative:torneo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D2B94B-8930-4058-ADA4-181CEFB12C74}|WindowsFormsApp1.csproj|c:\\users\\usuario\\clase3_club_altos_verdes\\resultadofinal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D2B94B-8930-4058-ADA4-181CEFB12C74}|WindowsFormsApp1.csproj|solutionrelative:resultadofinal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D2B94B-8930-4058-ADA4-181CEFB12C74}|WindowsFormsApp1.csproj|c:\\users\\usuario\\clase3_club_altos_verdes\\resultadofinal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{05D2B94B-8930-4058-ADA4-181CEFB12C74}|WindowsFormsApp1.csproj|solutionrelative:resultadofinal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D2B94B-8930-4058-ADA4-181CEFB12C74}|WindowsFormsApp1.csproj|c:\\users\\usuario\\clase3_club_altos_verdes\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D2B94B-8930-4058-ADA4-181CEFB12C74}|WindowsFormsApp1.csproj|solutionrelative:formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D2B94B-8930-4058-ADA4-181CEFB12C74}|WindowsFormsApp1.csproj|c:\\users\\usuario\\clase3_club_altos_verdes\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{05D2B94B-8930-4058-ADA4-181CEFB12C74}|WindowsFormsApp1.csproj|solutionrelative:formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D2B94B-8930-4058-ADA4-181CEFB12C74}|WindowsFormsApp1.csproj|c:\\users\\usuario\\clase3_club_altos_verdes\\formequipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{05D2B94B-8930-4058-ADA4-181CEFB12C74}|WindowsFormsApp1.csproj|solutionrelative:formequipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D2B94B-8930-4058-ADA4-181CEFB12C74}|WindowsFormsApp1.csproj|c:\\users\\usuario\\clase3_club_altos_verdes\\formequipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D2B94B-8930-4058-ADA4-181CEFB12C74}|WindowsFormsApp1.csproj|solutionrelative:formequipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D2B94B-8930-4058-ADA4-181CEFB12C74}|WindowsFormsApp1.csproj|C:\\Users\\Usuario\\clase3_club_altos_verdes\\equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D2B94B-8930-4058-ADA4-181CEFB12C74}|WindowsFormsApp1.csproj|solutionrelative:equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D2B94B-8930-4058-ADA4-181CEFB12C74}|WindowsFormsApp1.csproj|c:\\users\\usuario\\clase3_club_altos_verdes\\partido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D2B94B-8930-4058-ADA4-181CEFB12C74}|WindowsFormsApp1.csproj|solutionrelative:partido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D2B94B-8930-4058-ADA4-181CEFB12C74}|WindowsFormsApp1.csproj|c:\\users\\usuario\\clase3_club_altos_verdes\\formjugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{05D2B94B-8930-4058-ADA4-181CEFB12C74}|WindowsFormsApp1.csproj|solutionrelative:formjugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D2B94B-8930-4058-ADA4-181CEFB12C74}|WindowsFormsApp1.csproj|c:\\users\\usuario\\clase3_club_altos_verdes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D2B94B-8930-4058-ADA4-181CEFB12C74}|WindowsFormsApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D2B94B-8930-4058-ADA4-181CEFB12C74}|WindowsFormsApp1.csproj|c:\\users\\usuario\\clase3_club_altos_verdes\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D2B94B-8930-4058-ADA4-181CEFB12C74}|WindowsFormsApp1.csproj|solutionrelative:jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D2B94B-8930-4058-ADA4-181CEFB12C74}|WindowsFormsApp1.csproj|c:\\users\\usuario\\clase3_club_altos_verdes\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D2B94B-8930-4058-ADA4-181CEFB12C74}|WindowsFormsApp1.csproj|solutionrelative:persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "formJugador.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\clase3_club_altos_verdes\\formJugador.cs",
+              "RelativeDocumentMoniker": "formJugador.cs",
+              "ToolTip": "C:\\Users\\Usuario\\clase3_club_altos_verdes\\formJugador.cs",
+              "RelativeToolTip": "formJugador.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T17:13:13.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "formPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\clase3_club_altos_verdes\\formPrincipal.cs",
+              "RelativeDocumentMoniker": "formPrincipal.cs",
+              "ToolTip": "C:\\Users\\Usuario\\clase3_club_altos_verdes\\formPrincipal.cs",
+              "RelativeToolTip": "formPrincipal.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAawCUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T00:21:03.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Torneo.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\clase3_club_altos_verdes\\Torneo.cs",
+              "RelativeDocumentMoniker": "Torneo.cs",
+              "ToolTip": "C:\\Users\\Usuario\\clase3_club_altos_verdes\\Torneo.cs",
+              "RelativeToolTip": "Torneo.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAqwC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T12:10:27.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "formPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\clase3_club_altos_verdes\\formPrincipal.cs",
+              "RelativeDocumentMoniker": "formPrincipal.cs",
+              "ToolTip": "C:\\Users\\Usuario\\clase3_club_altos_verdes\\formPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "formPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T00:15:23.015Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResultadoFinal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\clase3_club_altos_verdes\\ResultadoFinal.cs",
+              "RelativeDocumentMoniker": "ResultadoFinal.cs",
+              "ToolTip": "C:\\Users\\Usuario\\clase3_club_altos_verdes\\ResultadoFinal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ResultadoFinal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T13:21:51.987Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResultadoFinal.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\clase3_club_altos_verdes\\ResultadoFinal.cs",
+              "RelativeDocumentMoniker": "ResultadoFinal.cs",
+              "ToolTip": "C:\\Users\\Usuario\\clase3_club_altos_verdes\\ResultadoFinal.cs",
+              "RelativeToolTip": "ResultadoFinal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T18:00:44.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "formEquipo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\clase3_club_altos_verdes\\formEquipo.cs",
+              "RelativeDocumentMoniker": "formEquipo.cs",
+              "ToolTip": "C:\\Users\\Usuario\\clase3_club_altos_verdes\\formEquipo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "formEquipo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T17:11:22.843Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "formEquipo.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\clase3_club_altos_verdes\\formEquipo.cs",
+              "RelativeDocumentMoniker": "formEquipo.cs",
+              "ToolTip": "C:\\Users\\Usuario\\clase3_club_altos_verdes\\formEquipo.cs",
+              "RelativeToolTip": "formEquipo.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwDoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T17:57:32.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Equipo.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\clase3_club_altos_verdes\\Equipo.cs",
+              "RelativeDocumentMoniker": "Equipo.cs",
+              "ToolTip": "C:\\Users\\Usuario\\clase3_club_altos_verdes\\Equipo.cs",
+              "RelativeToolTip": "Equipo.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T12:03:58.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Partido.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\clase3_club_altos_verdes\\Partido.cs",
+              "RelativeDocumentMoniker": "Partido.cs",
+              "ToolTip": "C:\\Users\\Usuario\\clase3_club_altos_verdes\\Partido.cs",
+              "RelativeToolTip": "Partido.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T12:10:49.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "formJugador.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\clase3_club_altos_verdes\\formJugador.cs",
+              "RelativeDocumentMoniker": "formJugador.cs",
+              "ToolTip": "C:\\Users\\Usuario\\clase3_club_altos_verdes\\formJugador.cs [Dise\u00F1o]",
+              "RelativeToolTip": "formJugador.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T17:11:36.435Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\clase3_club_altos_verdes\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\clase3_club_altos_verdes\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T00:02:57.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Jugador.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\clase3_club_altos_verdes\\Jugador.cs",
+              "RelativeDocumentMoniker": "Jugador.cs",
+              "ToolTip": "C:\\Users\\Usuario\\clase3_club_altos_verdes\\Jugador.cs",
+              "RelativeToolTip": "Jugador.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T12:04:17.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\clase3_club_altos_verdes\\Persona.cs",
+              "RelativeDocumentMoniker": "Persona.cs",
+              "ToolTip": "C:\\Users\\Usuario\\clase3_club_altos_verdes\\Persona.cs",
+              "RelativeToolTip": "Persona.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T12:10:08.08Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
